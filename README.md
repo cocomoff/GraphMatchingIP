@@ -9,3 +9,7 @@
 ## ε-uniform graph partitioning
 
 - see [example1](example1.jl)
+
+## trip-based ε-uniform graph partitioning
+
+- see [example2](example2.jl)
